@@ -75,7 +75,7 @@ YourWaiter AI використовує subscription-based SaaS модель дл
 
 ---
 
-# 👥 Мій внесок
+# Мій внесок
 
 Працювала над:
 
