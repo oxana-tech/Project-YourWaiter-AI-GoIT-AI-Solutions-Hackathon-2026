@@ -61,7 +61,7 @@
   ## Demo Video
   <a href="https://drive.google.com/file/d/1w9qfhCH88If6G7WhcPVhe-w_zkK4LQvK/view?usp=sharing"> Відео</a>
 
- ## Pitch Deck
+  ## Pitch Deck
   <a href="https://drive.google.com/file/d/1XXxS0YKAErvb7QC5cVRP5S-9J60EDPH1/view?usp=sharing">Pitch Deck</a>
 
 # Бізнес-модель
