@@ -1,6 +1,7 @@
 # Project-YourWaiter-AI-GoIT-AI-Solutions-Hackathon-2026
 ## Проєкт створений під час хакатону як масштабована AI-native SaaS платформа для HoReCa бізнесу.
 <img width="592" height="1280" alt="photo_2026-05-10_22-02-23" src="https://github.com/user-attachments/assets/bb9b9642-d52e-4b83-8742-4442058736e4" />
+
 ## YourWaiter AI — це AI-помічник для закладів громадського харчування , який допомагає гостям:  
 - отримувати персоналізовані рекомендації страв;
 - спілкуватися з AI-офіціантом через QR-меню;
